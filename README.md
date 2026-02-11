@@ -9,8 +9,11 @@ Users can search for movies and view movie details using the OMDb API.
 
 🔗 https://reactmovieappp.netlify.app/
 
+---
+## 📸 Preview
 
-<img width="1903" height="922" alt="sceenshot" src="https://github.com/user-attachments/assets/ac4014fc-574f-4c62-bdca-712d824fe2e8" />
+![React Movie App Screenshot](./assets/sceenshot.png)
+
 
 
 
@@ -31,7 +34,7 @@ Users can search for movies and view movie details using the OMDb API.
 - React
 - Vite
 - JavaScript (ES6+)
-- CSS
+- TailwindCSS
 - OMDb API
 
 ---
